@@ -1,7 +1,10 @@
 # TikTokClone
 TikTok clone with Firebase db
 
-/!\ NotificationsUtils/APIService get your messaging key from Firebase
+/!\ Developped in 2020
+
+### Todo:
+NotificationsUtils/APIService get your messaging key from Firebase
 
 ### Functionality 
 - Record until 60s 
