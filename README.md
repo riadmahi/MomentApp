@@ -1,7 +1,7 @@
 # TikTokClone
 TikTok clone with Firebase db
 
-
+/!\ NotificationsUtils/APIService get your messaging key from Firebase
 
 ## Watch videos
 ![facebook_ads_home](https://user-images.githubusercontent.com/58702474/144748598-17cec35b-3d71-4494-9cc5-40a9d19e0bc4.png)
