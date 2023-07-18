@@ -1,7 +1,6 @@
-# TikTokClone
-TikTok clone with Firebase db
+# Moment
 
-/!\ Developped in 2020
+/!\ Developped in 2020, deprecated bad methods.
 
 ### Todo:
 NotificationsUtils/APIService get your messaging key from Firebase
